@@ -5,4 +5,5 @@ git add "nom du document"
 git commit -m "message"
 git push
 • Commande pour pull: git pull
+• Créer une nouvelle branche: git branch add-create-branch-command
 
