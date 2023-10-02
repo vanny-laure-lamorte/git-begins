@@ -1,7 +1,0 @@
-• Pour cloner un repository: git clone "URL_du_repository"
-• Les 3 commandes de push:
-git add "nom du document"
-git commit -m "message"
-git push
-• Commande pour pull: git pull
-
