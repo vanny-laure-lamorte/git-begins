@@ -1,0 +1,6 @@
+git clone URL
+
+git add nom du document
+git cpmmit -m "message"
+git push
+
